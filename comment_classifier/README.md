@@ -4,4 +4,8 @@
 Определение токсичности комментариев
 
 ### Навыки и инструменты
-Python Pandas BERT nltk tf-idf
+ * Python
+ * Pandas
+ * BERT
+ * nltk
+ * tf-idf
