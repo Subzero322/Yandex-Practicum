@@ -6,4 +6,5 @@
 | Название проекта | Описание | Используемые библиотеки |
 | :---:         |     :---:      |          :---: |
 | [Обучение модели классификации комментариев] (https://github.com/Subzero322/Yandex-Practicum/tree/main/comment_classifier)   | git status     | git status    |
+| [About](#about) |
 | git diff     | git diff       | git diff      |
